@@ -1,6 +1,6 @@
 # Nutrition Label Project
 
-
+![Nutrition Label Preview](/label.png)
 
 This project is a typography-focused exercise from FreeCodeCamp, where the objective was to build a **nutrition label** using only HTML and CSS. It’s a simple but valuable exercise to strengthen layout and styling skills, focusing on accurate text styling, font sizing, spacing, and alignment to match typical nutrition labels on food packaging.
 
